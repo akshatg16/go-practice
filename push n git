@@ -1,0 +1,7 @@
+git status
+(if changes then add)
+
+git commit
+(small description)
+
+git push
