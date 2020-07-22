@@ -9,3 +9,7 @@ programming practice for golang using coursera [https://www.coursera.org/special
 
 # Day3
 2 practice files committed
+
+# Day4
+2 practice files committed
+1 practice files modified
