@@ -17,3 +17,4 @@ programming practice for golang using coursera [https://www.coursera.org/special
 # Day5
 8 practice files committed
 base64 modified as two
+golang practice
